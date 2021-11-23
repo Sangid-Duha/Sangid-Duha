@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sangid Duha
+<h2 align="center">Hi 👋, I'm Sangid Duha</h2>
 
 - 🌱 I’m currently learning Android App Development. 
 - 💬 Ask me about Android App. 
